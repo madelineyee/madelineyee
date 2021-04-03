@@ -1,4 +1,10 @@
-### Hi there 👋
+✨ Hello World!✨
+
+I'm Madeline Yee Li Yan, currently a B.Sc in AI undergraduate at University of Malaya!
+
+What you'll find here is  mainly school projects, exercises from online courses as well as some humble side projects 👉👈 (please be kind!)
+
+💬 Still finding my niche in this vast wide field 
 
 <!--
 **madelineyee/madelineyee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
