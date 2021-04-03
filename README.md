@@ -1,6 +1,6 @@
 ✨ Hello World!✨
 
-I'm Madeline Yee Li Yan, currently a B.Sc in AI undergraduate at University of Malaya!
+I'm Madeline Yee Li Yan, currently a B.Sc in AI undergraduate at University of Malaya
 
 What you'll find here is  mainly school projects, exercises from online courses as well as some humble side projects 👉👈 (please be kind!)
 
